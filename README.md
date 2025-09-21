@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0072ff&height=120&section=header&text=Salah%20Mohammed%20Abd%20Al-Ati&fontSize=32&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0072ff,100:00c6ff&height=160&section=header&text=Hi%20👋,%20I'm%20Salah%20Mohammed%20Abd%20Al-Ati&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 
